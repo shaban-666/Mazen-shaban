@@ -1,0 +1,5 @@
+{
+  "name": "Remix: ATS Resume Optimizer",
+  "description": "Evaluate and optimize your resume for Applicant Tracking Systems (ATS) using AI, then export as PDF.",
+  "requestFramePermissions": []
+}
